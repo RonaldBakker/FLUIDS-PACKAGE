@@ -5,7 +5,7 @@ Part 6. Pures
 Pures is a stand-alone program for the calculations of the properties of pure gases: H2O, D2O, CO2, CH4, N2, C2H6, C3H8, NH3, O2, H2, CO, H2S, SO2, Ar, He. The applications are exact copies that are designed for the use at different computer operating systems. It is written in BASIC with RealBasic and XOJO development tools by:
 
 Ronald J. Bakker
-bakker@unileoben.ac.at
+email: bakker@unileoben.ac.at
 
 This work was completed at the
 

@@ -1,4 +1,4 @@
-# FLUIDS-PACKAGE-6
+# FLUIDS-PACKAGE
 
 Part 6. Pures
 
